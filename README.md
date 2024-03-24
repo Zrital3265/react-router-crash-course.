@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Preview:
+
+![image](https://github.com/Zrital3265/react-router-crash-course./assets/116243106/9ccbf5f6-7a26-4c81-9939-26f1c57289e1)
+![image](https://github.com/Zrital3265/react-router-crash-course./assets/116243106/1cd94e91-56a0-4096-93b0-6315b6bdc86c)
+
+
+### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
